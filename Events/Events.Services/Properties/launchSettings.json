@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Events.Services": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
